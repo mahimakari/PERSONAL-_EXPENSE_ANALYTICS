@@ -88,16 +88,16 @@ Dashboard
 ![Dashboard](dashboard.png)
 
 ### Expense by Category
-![Expense by Category](expenses_by_category.png)
+![Expense by Category](expenses by category.png)
 
 ### Total Expense Visualization
-![Total Expense](total_expense_in_a_bar.png)
+![Total Expense](total expense in a bar.png)
 
 ### Expense Distribution
-![Expense Distribution](expense_distribution.png)
+![Expense Distribution](expense distribution.png)
 
 ### Monthly Expense Trend
-![Monthly Expense Trend](monthly_expense_trend.png)
+![Monthly Expense Trend](monthly expense trend.png)
 
 
 
