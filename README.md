@@ -81,23 +81,23 @@ Dashboard
   Network URL: http://192.168.1.10:8501
 
   Output:
-
-  ## Output Screenshots
+## Output Screenshots
 
 ### Dashboard
 ![Dashboard](dashboard.png)
 
 ### Expense by Category
-![Expense by Category](expenses by category.png)
+![Expense by Category](expenses_by_category.png)
 
-### Total Expense Visualization
-![Total Expense](total expense in a bar.png)
+
+### Total Expense
+![Total Expense](total_expense_bar.png)
+
 
 ### Expense Distribution
-![Expense Distribution](expense distribution.png)
+![Expense Distribution](expense_distribution.png)
 
 ### Monthly Expense Trend
-![Monthly Expense Trend](monthly expense trend.png)
-
+![Monthly Expense Trend](monthly_expense_trend.png)
 
 
