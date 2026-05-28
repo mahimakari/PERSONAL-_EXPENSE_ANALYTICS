@@ -4,11 +4,11 @@
   Internship Period: 17 May 2026 - 28 June 2026  
   Intern ID: CITS846  
 
----
+
 
 🔗 PERSONAL EXPENSE ANALYTICS  
 
----
+
 
 🔗 PROJECT OVERVIEW  
 This project analyzes personal or hostel expense data using Python and visualizes important financial insights through graphs and dashboards. The project performs data cleaning, visualization, and expense analysis to understand spending patterns. It helps in tracking expenses and identifying category-wise spending trends.
@@ -18,7 +18,7 @@ Pandas
 Matplotlib  
 Streamlit  
 
----
+
 
 🔗 FEATURES  
 Data Cleaning and Preprocessing  
@@ -28,7 +28,7 @@ Expense Distribution Visualization
 Monthly Expense Trend Analysis  
 Interactive Streamlit Dashboard  
 
----
+
 
 🔗 TECHNOLOGIES USED  
 Python  
@@ -36,7 +36,7 @@ Pandas
 Matplotlib  
 Streamlit  
 
----
+
 
 🔗 DATASET USED  
 The dataset used in this project:  
@@ -48,7 +48,7 @@ Expense Type / Category
 Amount  
 Date (optional)  
 
----
+
 
 🔗 PROJECT STRUCTURE  
 
@@ -59,14 +59,13 @@ Personal-Expense-Analytics/
 │── hostel_life_expense_tracker.csv  
 │── README.md  
 
----
+
 
 🔗 VISUALIZATIONS INCLUDED  
 Expense by Category  
 Expense Distribution  
 Monthly Expense Trend  
 
----
 
 🔗 STREAMLIT DASHBOARD  
 Interactive dashboard created using Streamlit to display:  
@@ -77,12 +76,11 @@ Category-wise Analysis
 Graph Visualizations  
 Monthly Trend Analysis  
 
----
+
 
 🔗 RUN DASHBOARD  
 python -m streamlit run app.py  
 
----
 
 🔗Dashboard
 
